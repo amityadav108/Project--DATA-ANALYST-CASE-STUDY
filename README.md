@@ -120,5 +120,3 @@ Bar plot comparing male vs female revenue.
 - Improve future forecasting using historical trends.
 
 ---
-### **5️⃣ Feature Engineering**
-Created new column:  
